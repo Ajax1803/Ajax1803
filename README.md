@@ -1,10 +1,34 @@
-# 👋 Hi there, I'm Ajay Raj
+<div align="center">
 
+```
+┌───────────────────────────────────────────────────────────────────────────────┐
+│                                                                               │
+│   ██     ██ ███████ ██       ██████  ██████  ███    ███ ███████ ██          │
+│   ██     ██ ██      ██      ██      ██    ██ ████  ████ ██      ██          │
+│   ██  █  ██ █████   ██      ██      ██    ██ ██ ████ ██ █████   ██          │
+│   ██ ███ ██ ██      ██      ██      ██    ██ ██  ██  ██ ██                  │
+│    ███ ███  ███████ ███████  ██████  ██████  ██      ██ ███████ ██          │
+│                                                                               │
+└───────────────────────────────────────────────────────────────────────────────┘
+```
+
+
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Ajay+Raj;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
+</div>
+
+# 👋 Hello!! 
 🎓 **Computer Science Undergraduate at Birla Institute of Technology, Mesra**  
-📧 [ajayrajaj2529@gmail.com](mailto:ajayrajaj2529@gmail.com)   
-🔗 [LinkedIn](https://www.linkedin.com/in/ajayraj2/) | [GitHub](https://github.com/Ajax1803)  
-
----
+-📫 **Reach me at**:  
+  <p align="center">
+    <a href="mailto:ajayrajaj2529@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://www.linkedin.com/in/ajayraj2/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
 
 ## 🚀 About Me
 
